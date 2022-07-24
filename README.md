@@ -14,7 +14,7 @@ Patrick Delos Reyes
 **A** -- Go Left <br />
 **S** -- Go Right <br />
 **D** -- Go Down <br />
-**Space&** - Shoot <br />
+**Space** - Shoot <br />
 
 ## Goal:
 This program simulates a side scroller shoot-em-up. <br />
