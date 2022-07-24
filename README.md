@@ -3,7 +3,7 @@ A ##Shootemup## developed for a School Project <br />
 I do not own a lot of the assets used in this project. 
 
 
-##Contributors
+## Contributors
 Christian Penaflor
 Cidney Ciacho
 Patrick Delos Reyes
