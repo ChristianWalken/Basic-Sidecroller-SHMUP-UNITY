@@ -4,8 +4,8 @@ I do not own a lot of the assets used in this project.
 
 
 ## Contributors
-Christian Penaflor
-Cidney Ciacho
+Christian Penaflor <br />
+Cidney Ciacho <br />
 Patrick Delos Reyes
 
 
@@ -14,7 +14,7 @@ Patrick Delos Reyes
 **A** -- Go Left <br />
 **S** -- Go Right <br />
 **D** -- Go Down <br />
-**Space** - Shoot <br />
+**Space** - Shoot 
 
 ## Goal:
 This program simulates a side scroller shoot-em-up. <br />
