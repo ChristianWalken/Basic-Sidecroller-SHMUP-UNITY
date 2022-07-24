@@ -10,15 +10,15 @@ Patrick Delos Reyes
 
 
 ## Controls:
-**W** -- Go Up
-**A** -- Go Left
-**S** -- Go Right
-**D** -- Go Down
-**Space&** - Shoot
+**W** -- Go Up <br />
+**A** -- Go Left <br />
+**S** -- Go Right <br />
+**D** -- Go Down <br />
+**Space&** - Shoot <br />
 
 ## Goal:
-This program simulates a side scroller shoot-em-up.
-You have 3 lives and the goal is to survive and kill the enemy ships.
+This program simulates a side scroller shoot-em-up. <br />
+You have 3 lives and the goal is to survive and kill the enemy ships. 
 
 
 
