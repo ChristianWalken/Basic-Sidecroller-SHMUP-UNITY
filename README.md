@@ -1,5 +1,5 @@
 # Basic-Sidecroller-SHMUP
-A **Shootemup** developed for a School Project <br />
+A **Shoot 'em up** developed for a School Project <br />
 IWe do not own the assets used in this project. 
 
 
