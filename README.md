@@ -6,7 +6,7 @@ IWe do not own the assets used in this project.
 ## Contributors
 Christian Penaflor <br />
 Cidney Ciacho <br />
-Patrick Delos Reyes
+Patrick de los Reyes
 
 
 ## Controls:
